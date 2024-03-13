@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|d:\\c#_final_project\\windowsformsapp36\\staffreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\staffreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|d:\\c#_final_project\\windowsformsapp36\\mangerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\mangerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\mangerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\mangerreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|d:\\c#_final_project\\windowsformsapp36\\montlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\montlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\montlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\montlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\staffdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\staffdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\customerrandc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\customerrandc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\redriceandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\redriceandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\customerrandc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\customerrandc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\whitericeandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\whitericeandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\staffshorties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\staffshorties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\staffdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\staffdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\redriceandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\redriceandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\finalbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\finalbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\finalbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\finalbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\staffreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\staffreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\yellowriceandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\yellowriceandcurry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\adminshorties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\adminshorties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\addmindrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\addmindrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\cprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\cprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|D:\\C#_Final_Project\\windowsformsapp36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33183A79-B756-4BDE-87FB-B3A463417A8E}|WindowsFormsApp36\\WindowsFormsApp36.csproj|solutionrelative:windowsformsapp36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mangerreport.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\mangerreport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\mangerreport.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\mangerreport.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\mangerreport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:48:44.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MontlyReport.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\MontlyReport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\MontlyReport.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\MontlyReport.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\MontlyReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:48:38.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "whitericeandcurry.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\whitericeandcurry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\whitericeandcurry.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\whitericeandcurry.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\whitericeandcurry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T16:12:21.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "customerrandc.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\customerrandc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\customerrandc.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\customerrandc.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\customerrandc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T16:14:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "customerrandc.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\customerrandc.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\customerrandc.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\customerrandc.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\customerrandc.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAArwHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T16:18:36.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staffreport.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffreport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\staffreport.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffreport.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\staffreport.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAEwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T18:25:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "redriceandcurry.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\redriceandcurry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\redriceandcurry.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\redriceandcurry.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\redriceandcurry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T16:13:06.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\Login.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\Login.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T17:43:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mangerreport.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\mangerreport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\mangerreport.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\mangerreport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\mangerreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T18:52:38.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MontlyReport.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\MontlyReport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\MontlyReport.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\MontlyReport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\MontlyReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T18:53:22.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "staffdrinks.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffdrinks.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\staffdrinks.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffdrinks.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\staffdrinks.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAhwIYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T19:07:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "staffshorties.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffshorties.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\staffshorties.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffshorties.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\staffshorties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:47:56.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "staffdrinks.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffdrinks.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\staffdrinks.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffdrinks.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\staffdrinks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:30:18.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registerform.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\Registerform.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\Registerform.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\Registerform.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\Registerform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T19:07:34.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registerform.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\Registerform.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\Registerform.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\Registerform.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\Registerform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:36:55.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "staffreport.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffreport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\staffreport.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\staffreport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\staffreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:47:33.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "finalbill.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\finalbill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\finalbill.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\finalbill.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\finalbill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:49:47.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "redriceandcurry.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\redriceandcurry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\redriceandcurry.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\redriceandcurry.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\redriceandcurry.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAApwJ8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:56:58.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "finalbill.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\finalbill.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\finalbill.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\finalbill.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\finalbill.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAApwGQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:57:26.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "yellowriceandcurry.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\yellowriceandcurry.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\yellowriceandcurry.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\yellowriceandcurry.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\yellowriceandcurry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T16:14:04.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "adminshorties.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\adminshorties.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\adminshorties.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\adminshorties.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\adminshorties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:48:18.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "addmindrinks.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\addmindrinks.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\addmindrinks.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\addmindrinks.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\addmindrinks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T15:09:32.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\Dashboard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\Dashboard.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\Dashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:31:53.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "cprogressbar.cs [Design]",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\cprogressbar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\cprogressbar.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\cprogressbar.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp36\\cprogressbar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-06T18:49:31.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_Final_Project\\WindowsFormsApp36\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp36\\Program.cs",
+              "ToolTip": "D:\\C#_Final_Project\\WindowsFormsApp36\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp36\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:45:35.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
